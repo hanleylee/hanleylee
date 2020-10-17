@@ -1,21 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm HanleyLee</h1>
+<h3 align="center">A iOS developer from China</h3>
 
-<!--
-**HanleyLee/HanleyLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C Rust Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/HanleyLee](https://github.com/HanleyLee)
 
+- 📝 I regulary write articles on [https://hanleylee.com](https://hanleylee.com)
 
-# Blog posts
+- 💬 Ask me about **iOS MVVM Swift**
+
+- 📫 How to reach me **hanley.lei@gmail.com**
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## Connect With Me
+
+<a href="https://twitter.com/hanley_lei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hanley_lei" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hanleylee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hanleylee" height="30" width="40" /></a>
+<a href="https://fb.com/hanley.lei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hanley.lei" height="30" width="40" /></a>
+<a href="https://instagram.com/hanley_lei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hanley_lei" height="30" width="40" /></a>
+<a href="https://medium.com/hanleylee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="hanleylee" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hanleylee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hanleylee" height="30" width="40" /></a>
+<a href="/https://www.hanleylee.com/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.hanleylee.com/atom.xml" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanleylee&layout=compact" alt="hanleylee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanleylee&show_icons=true" alt="hanleylee" /></p>
