@@ -31,8 +31,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Swift 中如何避免精度丢失](https://www.hanleylee.com/precision-loss-in-swift.html)
+- [使用 Visual Studio Code 编写 Markdown 文件](https://www.hanleylee.com/write-markdown-by-vscode.html)
+- [Swift 5.x 实用新特性分享](https://www.hanleylee.com/new-feature-of-swift-after-5.html)
+- [名贵木材收藏相关知识](https://www.hanleylee.com/rare-wood-collection.html)
+- [屏幕自动旋转与手动旋转总结](https://www.hanleylee.com/auto-rotate-of-ios.html)
 <!-- BLOG-POST-LIST:END -->
