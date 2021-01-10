@@ -31,9 +31,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一种简单的 iOS 暗黑模式实现方案(支持低版本)](https://www.hanleylee.com/implementation-of-dark-mode.html)
 - [Swift 中如何避免精度丢失](https://www.hanleylee.com/precision-loss-in-swift.html)
 - [使用 Visual Studio Code 编写 Markdown 文件](https://www.hanleylee.com/write-markdown-by-vscode.html)
 - [Swift 5.x 实用新特性分享](https://www.hanleylee.com/new-feature-of-swift-after-5.html)
 - [名贵木材收藏相关知识](https://www.hanleylee.com/rare-wood-collection.html)
-- [屏幕自动旋转与手动旋转总结](https://www.hanleylee.com/auto-rotate-of-ios.html)
 <!-- BLOG-POST-LIST:END -->
