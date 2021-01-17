@@ -31,9 +31,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [神级编辑器 Vim 使用 - 1.基础篇](https://www.hanleylee.com/usage-of-vim-editor-basic.html)
-- [神级编辑器 Vim 使用 - 4.正则替换篇](https://www.hanleylee.com/usage-of-vim-editor-regex.html)
-- [神级编辑器 Vim 使用 - 2.操作篇](https://www.hanleylee.com/usage-of-vim-editor.html)
-- [神级编辑器 Vim 使用 - 3.插件篇](https://www.hanleylee.com/usage-of-vim-editor-plugin.html)
-- [一种简单的 iOS 暗黑模式实现方案(支持低版本)](https://www.hanleylee.com/implementation-of-dark-mode.html)
+- [神级编辑器 Vim 使用-基础篇](https://www.hanleylee.com/usage-of-vim-editor-basic.html)
+- [神级编辑器 Vim 使用-最后](https://www.hanleylee.com/usage-of-vim-editor-last.html)
+- [神级编辑器 Vim 使用-正则替换篇](https://www.hanleylee.com/usage-of-vim-editor-regex.html)
+- [神级编辑器 Vim 使用-操作篇](https://www.hanleylee.com/usage-of-vim-editor.html)
+- [神级编辑器 Vim 使用-插件篇](https://www.hanleylee.com/usage-of-vim-editor-plugin.html)
 <!-- BLOG-POST-LIST:END -->
