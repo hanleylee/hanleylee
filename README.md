@@ -33,7 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [2020 年度总结](https://www.hanleylee.com/annual-review-2020.html)
 - [神级编辑器 Vim 使用-基础篇](https://www.hanleylee.com/usage-of-vim-editor-basic.html)
-- [神级编辑器 Vim 使用-正则替换篇](https://www.hanleylee.com/usage-of-vim-editor-regex.html)
 - [神级编辑器 Vim 使用-最后](https://www.hanleylee.com/usage-of-vim-editor-last.html)
+- [神级编辑器 Vim 使用-正则替换篇](https://www.hanleylee.com/usage-of-vim-editor-regex.html)
 - [神级编辑器 Vim 使用-操作篇](https://www.hanleylee.com/usage-of-vim-editor.html)
 <!-- BLOG-POST-LIST:END -->
