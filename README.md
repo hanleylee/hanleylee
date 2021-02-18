@@ -31,9 +31,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rime 输入法使用](https://www.hanleylee.com/usage-of-rime.html)
 - [iOS 中的静态库与动态库](https://www.hanleylee.com/various-libraries-in-ios.html)
 - [2020 年度总结](https://www.hanleylee.com/annual-review-2020.html)
+- [神级编辑器 Vim 使用-插件篇](https://www.hanleylee.com/usage-of-vim-editor-plugin.html)
 - [神级编辑器 Vim 使用-基础篇](https://www.hanleylee.com/usage-of-vim-editor-basic.html)
-- [神级编辑器 Vim 使用-最后](https://www.hanleylee.com/usage-of-vim-editor-last.html)
-- [神级编辑器 Vim 使用-正则替换篇](https://www.hanleylee.com/usage-of-vim-editor-regex.html)
 <!-- BLOG-POST-LIST:END -->
