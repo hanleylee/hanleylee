@@ -31,9 +31,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ 之头文件声明定义](https://www.hanleylee.com/header-file-and-declaration-definition-of-c++.html)
 - [C/C++ 头文件路径在编译时及工具中的设置](https://www.hanleylee.com/header-file-use.html)
 - [Rime 输入法使用](https://www.hanleylee.com/usage-of-rime.html)
 - [iOS 中的静态库与动态库](https://www.hanleylee.com/various-libraries-in-ios.html)
 - [2020 年度总结](https://www.hanleylee.com/annual-review-2020.html)
-- [神级编辑器 Vim 使用-基础篇](https://www.hanleylee.com/usage-of-vim-editor-basic.html)
 <!-- BLOG-POST-LIST:END -->
