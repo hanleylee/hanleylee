@@ -32,8 +32,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shell 在 MacOS 及 Linux 中的文件读取顺序](https://www.hanleylee.com/reading-order-of-script-in-mac-and-linux.html)
-- [Vim 之代码跟踪](https://www.hanleylee.com/tracing-code-in-vim.html)
 - [UIScrollView 的相关滑动代理回调方法及属性在滑动时的变化](https://www.hanleylee.com/change-of-related-variables-of-scrollview-during-scrolling.html)
+- [Vim 之代码跟踪](https://www.hanleylee.com/tracing-code-in-vim.html)
 - [Git Submodule 使用](https://www.hanleylee.com/usage-of-git-submodule.html)
 - [C++ 之头文件声明定义](https://www.hanleylee.com/header-file-and-declaration-definition-of-c++.html)
 <!-- BLOG-POST-LIST:END -->
