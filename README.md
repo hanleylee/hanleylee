@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Variable Expansion in Applescript](https://www.hanleylee.com/variable-expansion-in-applescript.html)
 - [Git 的一些实际使用技巧](https://www.hanleylee.com/some-tricks-of-git.html)
 - [Launch Vim as vanilla](https://www.hanleylee.com/lauchn-vim-as-vanilla.html)
 - [Use keycode in terminal and vim](https://www.hanleylee.com/use-keycode-in-terminal-vim.html)
 - [Shell 在 MacOS 及 Linux 中的文件读取顺序](https://www.hanleylee.com/reading-order-of-script-in-mac-and-linux.html)
-- [iOS 中的静态库与动态库](https://www.hanleylee.com/various-libraries-in-ios.html)
 <!-- BLOG-POST-LIST:END -->
