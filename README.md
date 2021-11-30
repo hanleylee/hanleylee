@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple 开发者账户类型](https://www.hanleylee.com/account-type-of-ios-developer.html)
+- [如何在 Vim 中使用外部命令的输出](https://www.hanleylee.com/how-vim-use-output-of-external-command.html)
 - [Variable Expansion in Applescript](https://www.hanleylee.com/variable-expansion-in-applescript.html)
 - [Git 的一些实际使用技巧](https://www.hanleylee.com/some-tricks-of-git.html)
 - [Launch Vim as vanilla](https://www.hanleylee.com/lauchn-vim-as-vanilla.html)
-- [Use keycode in terminal and vim](https://www.hanleylee.com/use-keycode-in-terminal-vim.html)
-- [Shell 在 MacOS 及 Linux 中的文件读取顺序](https://www.hanleylee.com/reading-order-of-script-in-mac-and-linux.html)
 <!-- BLOG-POST-LIST:END -->
