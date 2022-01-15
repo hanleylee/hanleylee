@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [设计模式与原则](https://www.hanleylee.com/design-pattern-and-principle.html)
+- [2021 年度总结](https://www.hanleylee.com/annual-review-2021.html)
 - [UML 学习](https://www.hanleylee.com/understand-uml.html)
+- [设计模式与原则](https://www.hanleylee.com/design-pattern-and-principle.html)
 - [Apple 开发者账户类型](https://www.hanleylee.com/account-type-of-ios-developer.html)
 - [如何在 Vim 中使用外部命令的输出](https://www.hanleylee.com/how-vim-use-output-of-external-command.html)
-- [Variable Expansion in Applescript](https://www.hanleylee.com/variable-expansion-in-applescript.html)
 <!-- BLOG-POST-LIST:END -->
