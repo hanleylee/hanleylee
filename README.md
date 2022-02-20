@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [记一次 HHKB Hybrid 故障经历](https://www.hanleylee.com/my-hhkb-hybrid-broken-record.html)
 - [UITableView 的两种复用 cell 方法的区别](https://www.hanleylee.com/difference-between-two-tableview-dequeue-reusable-cell-methods.html)
 - [你当像鸟飞往你的山 - 读后感](https://www.hanleylee.com/comprehension-of-educated.html)
 - [2021 年度总结](https://www.hanleylee.com/annual-review-2021.html)
 - [设计模式与原则](https://www.hanleylee.com/design-pattern-and-principle.html)
-- [UML 学习](https://www.hanleylee.com/understand-uml.html)
 <!-- BLOG-POST-LIST:END -->
