@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [记一次 HHKB Hybrid 故障经历](https://www.hanleylee.com/my-hhkb-hybrid-broken-record.html)
-- [UITableView 的两种复用 cell 方法的区别](https://www.hanleylee.com/difference-between-two-tableview-dequeue-reusable-cell-methods.html)
-- [你当像鸟飞往你的山 - 读后感](https://www.hanleylee.com/comprehension-of-educated.html)
-- [2021 年度总结](https://www.hanleylee.com/annual-review-2021.html)
-- [设计模式与原则](https://www.hanleylee.com/design-pattern-and-principle.html)
+- [2022 年度总结](https://hanleylee.com/articles/annual-review-2022)
+- [使用 MacVim/GVim 作为 git 冲突解决工具 &lpar;mergetool&rpar;](https://hanleylee.com/articles/use-macvim_as_git_merge_tool)
+- [快速实现 iOS 全局黑白主题](https://hanleylee.com/articles/ios_global_gray_theme)
+- [在 iOS 16 上一次字符串崩溃的复盘](https://hanleylee.com/articles/review_of_string_crash_in_ios16)
+- [使用 launchd 管理 Mac 启动任务与定时任务](https://hanleylee.com/articles/manage-process-and-timed-task-by-launchd)
 <!-- BLOG-POST-LIST:END -->
