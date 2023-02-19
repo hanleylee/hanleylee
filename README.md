@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cpp Python Shell**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/HanleyLee](https://github.com/HanleyLee)**
+- 👨‍💻 All of my projects are available at **[https://github.com/HanleyLee](https://github.com/hanleylee)**
 
 - 📝 I regulary write articles on **[https://hanleylee.com](https://hanleylee.com)**
 
@@ -93,10 +93,10 @@
     />
 </a>
 
-<a href="/https://www.hanleylee.com/atom.xml" target="blank">
+<a href="/https://www.hanleylee.com/feed.rss" target="blank">
     <img
         align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg"
-        alt="https://www.hanleylee.com/atom.xml"
+        alt="https://www.hanleylee.com/feed.rxx"
         height="30"
         width="40"
     />
