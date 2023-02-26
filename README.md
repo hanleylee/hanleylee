@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cpp Python Shell**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/HanleyLee](https://github.com/hanleylee)**
+- 👨‍💻 All of my projects are available at **[https://github.com/hanleylee](https://github.com/hanleylee)**
 
 - 📝 I regulary write articles on **[https://hanleylee.com](https://hanleylee.com)**
 
@@ -24,7 +24,7 @@
 
 ## Connect With Me
 
-<a href="https://github.com/HanleyLee" target="blank">
+<a href="https://github.com/hanleylee" target="blank">
     <img
         align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
