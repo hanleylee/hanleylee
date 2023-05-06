@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在 Python 脚本中信任自签名证书](https://hanleylee.com/articles/blog_trust_self_signed_cert_in_python_script)
+- [AirPods Pro 杂音维权记录](https://hanleylee.com/articles/blog_airpods_pro_maintenance_record)
 - [Xcode git &quot;invalid data in index&quot; workaround](https://hanleylee.com/articles/blog_xcode_git_crash_workaround)
 - [2022 年度总结](https://hanleylee.com/articles/annual-review-2022)
 - [使用 MacVim/GVim 作为 git 冲突解决工具 &lpar;mergetool&rpar;](https://hanleylee.com/articles/use-macvim_as_git_merge_tool)
-- [快速实现 iOS 全局黑白主题](https://hanleylee.com/articles/ios_global_gray_theme)
-- [在 iOS 16 上一次字符串崩溃的复盘](https://hanleylee.com/articles/review_of_string_crash_in_ios16)
 <!-- BLOG-POST-LIST:END -->
