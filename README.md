@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [网络端口科普](https://hanleylee.com/articles/blog_network_port)
+- [在外访问家庭内网资源](https://hanleylee.com/articles/blog_access_local_network_from_anywhere)
+- [深圳天威家庭宽带公网 IP 申请](https://hanleylee.com/articles/blog_public_ip_request)
+- [iOS 推送方式实现收款语音播报](https://hanleylee.com/articles/blog_background_voice)
 - [在 Python 脚本中信任自签名证书](https://hanleylee.com/articles/blog_trust_self_signed_cert_in_python_script)
-- [AirPods Pro 杂音维权记录](https://hanleylee.com/articles/blog_airpods_pro_maintenance_record)
-- [Xcode git &quot;invalid data in index&quot; workaround](https://hanleylee.com/articles/blog_xcode_git_crash_workaround)
-- [2022 年度总结](https://hanleylee.com/articles/annual-review-2022)
-- [使用 MacVim/GVim 作为 git 冲突解决工具 &lpar;mergetool&rpar;](https://hanleylee.com/articles/use-macvim_as_git_merge_tool)
 <!-- BLOG-POST-LIST:END -->
