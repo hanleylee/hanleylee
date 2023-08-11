@@ -8,7 +8,11 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in hanleylee.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.hanleylee.com/feed.rss"
+          feed_list: "https://hanleylee.com/feed.rss"
+
+# vim:set ft=yaml sw=2 ts=4 tw=150:
