@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [网络端口科普](https://hanleylee.com/articles/blog_network_port)
-- [在外访问家庭内网资源](https://hanleylee.com/articles/blog_access_local_network_from_anywhere)
-- [深圳天威家庭宽带公网 IP 申请](https://hanleylee.com/articles/blog_public_ip_request)
-- [iOS 推送方式实现收款语音播报](https://hanleylee.com/articles/blog_background_voice)
-- [在 Python 脚本中信任自签名证书](https://hanleylee.com/articles/blog_trust_self_signed_cert_in_python_script)
+- [使用 Swift Package Manager 作为你的算法游乐场](https://hanleylee.com/articles/make-algorithm-playground-with-spm)
+- [为 UICollectionView 手动添加滑动到下一页手势](https://hanleylee.com/articles/collectionview-drag-to-next-page)
+- [Linux filesystem](https://hanleylee.com/articles/linux-filesystem)
+- [网络端口科普](https://hanleylee.com/articles/network-port)
+- [在外访问家庭内网资源](https://hanleylee.com/articles/access-local-network-from-anywhere)
 <!-- BLOG-POST-LIST:END -->
