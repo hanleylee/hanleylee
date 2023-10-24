@@ -131,9 +131,9 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从张家界武陵源天门山旅游中得到的教训](https://hanleylee.com/articles/travel-in-zhangjiajie)
+- [App 日志系统方案选型分析](https://hanleylee.com/articles/app-log-system-choosen)
 - [Flexbox 框架 - FlexLayout 使用总结](https://hanleylee.com/articles/ios-flexlayout-usage)
 - [使用 Swift Package Manager 作为你的算法游乐场](https://hanleylee.com/articles/make-algorithm-playground-with-spm)
 - [为 UICollectionView 手动添加滑动到下一页手势](https://hanleylee.com/articles/collectionview-drag-to-next-page)
-- [Linux filesystem](https://hanleylee.com/articles/linux-filesystem)
-- [网络端口科普](https://hanleylee.com/articles/network-port)
 <!-- BLOG-POST-LIST:END -->
